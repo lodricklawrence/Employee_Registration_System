@@ -81,7 +81,7 @@ One of the features that i will add at this project in the feature is JWT authen
 | /edit/id |Displays editing form for updating employees credentials|
 
 # Acknowlegements
-I obtained Node.Js knowldege from treehouse tutorials [teamtreehouse](https://teamtreehouse.com/). 
+I obtained Node.Js knowldege from treehouse tutorials [teamtreehouse](https://teamtreehouse.com/) and React.JS knowledge from [React.Js](https://reactjs.org/).
 
 Also I obtained Fastify knowledge from [fastify](https://www.fastify.io/) documentation. Also i used [stackoverflow](https://stackoverflow.com/) and [w3schools](https://www.w3schools.com/) to solve many of challenges i faced when performing this project.
 

@@ -3,7 +3,7 @@
 # Description
 
 ### Project origin
-Employee_Registration_System is a full-stack project which i performed as one of the task given by my industrial supervisor at my Industrial Practical Training serving time at Amatics Technologies Company ltd.
+Employee_Registration_System is a full-stack project which i performed as one of the project given by my senior supervisors at Amatics Technologies Company ltd.
 
 ### What it can do
 Employee_Registration_System is a project whereby the system user registers an employee's name and email credentials from the browser form and the credentials are be sent to the database for storage. 
